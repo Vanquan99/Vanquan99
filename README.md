@@ -1,7 +1,4 @@
-//![logo]([https://cdn.dribbble.com/users/906441/screenshots/20335089/media/4f0c78cb17358832683ccf822041bf08.jpg?resize=400x300&vertical=center])
-<p align="center">
-<img src="https://cdn.dribbble.com/users/906441/screenshots/20335089/media/4f0c78cb17358832683ccf822041bf08.jpg?resize=400x300&vertical=center">
-  ///
+
 <h1 align="center">Hi 👋, I'm Quân</h1>
 <h3 align="center">A passionate flutter developer and android developer from VietNam</h3>
 <h5 align="center">
@@ -9,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️⭐✨&center=true&size=20">
   </a>
 </h5>
-<img align="right" alt="Coding" width="400" src="[https://techcrunch.com/wp-content/uploads/2020/04/Annotation-2020-04-14-082408.png]">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bf820c77585a9a77a6c8661d5d6100c1ce77546b2dd2d5ceb2f37f6c158ff950/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f686f6d652f617374726f2d6d6f6e612e737667">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanquan99&label=Profile%20views&color=0e75b6&style=flat" alt="vanquan99" /> </p>
 
