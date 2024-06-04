@@ -1,4 +1,7 @@
-![logo]([https://cdn.dribbble.com/users/906441/screenshots/20335089/media/4f0c78cb17358832683ccf822041bf08.jpg?resize=400x300&vertical=center])
+//![logo]([https://cdn.dribbble.com/users/906441/screenshots/20335089/media/4f0c78cb17358832683ccf822041bf08.jpg?resize=400x300&vertical=center])
+<p align="center">
+<img src="https://cdn.dribbble.com/users/906441/screenshots/20335089/media/4f0c78cb17358832683ccf822041bf08.jpg?resize=400x300&vertical=center">
+  ///
 <h1 align="center">Hi 👋, I'm Quân</h1>
 <h3 align="center">A passionate flutter developer and android developer from VietNam</h3>
 <h5 align="center">
