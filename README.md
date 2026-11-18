@@ -1,39 +1,75 @@
-
-<h1 align="center">Hi 👋, I'm Quân</h1>
-<h3 align="center">A passionate flutter developer and android developer from VietNam</h3>
-<h5 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!❤️⭐✨&center=true&size=20">
-  </a>
-</h5>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bf820c77585a9a77a6c8661d5d6100c1ce77546b2dd2d5ceb2f37f6c158ff950/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f686f6d652f617374726f2d6d6f6e612e737667">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanquan99&label=Profile%20views&color=0e75b6&style=flat" alt="vanquan99" /> </p>
-
-
-- 🔭 I’m currently working on [Ominext](https://www.ominext.com/)
-
-- 🌱 I’m currently learning **Flutter, java, kotlin, English**
-
-- 💬 Ask me about **mobile app**
-
-- 📫 How to reach me **vanquan.devwork@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/quandv_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quandv_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/quandv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quandv" height="30" width="40" /></a>
-<a href="https://fb.com/mr.quandv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.quandv" height="30" width="40" /></a>
-<a href="https://instagram.com/quaandv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quaandv" height="30" width="40" /></a>
+<!-- Animated header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hi,%20I'm%20Quân&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Android%20Developer%20from%20Vietnam&descSize=18&descAlignY=58" alt="Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- Typing animation -->
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Hey+there!+👋;I+build+mobile+apps+with+Flutter+💙;Android+%7C+Kotlin+%7C+Dart;Great+to+have+you+here!+❤️⭐✨" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanquan99&show_icons=true&locale=en&layout=compact" alt="vanquan99" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanquan99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/vanquan99?style=flat&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/vanquan99?style=flat&logo=github&label=Stars" alt="Stars" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanquan99&show_icons=true&locale=en" alt="vanquan99" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanquan99&" alt="vanquan99" /></p>
+## 👨‍💻 About me
+
+- 🔭 Currently working at [Ominext](https://www.ominext.com/) <!-- TODO: update if changed -->
+- 🌱 Learning **Flutter, Kotlin, Jetpack Compose, English** <!-- TODO: add 2026 topics -->
+- 💬 Ask me about **mobile app development**
+- 📫 Reach me at **vanquan.devwork@gmail.com**
+- ⚡ Fun fact: **I am funny** 😄
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://twitter.com/quandv_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://linkedin.com/in/quandv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/mr.quandv"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/quaandv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:vanquan.devwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase,git,github,figma,xd,photoshop,mysql,sqlite&perline=7" alt="Tech stack" />
+</p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanquan99&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanquan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vanquan99&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanquan99&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+## 🐍 Contribution snake
+
+<!-- Needs the GitHub Action below. Remove this block if you skip it. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanquan99/vanquan99/output/github-snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/vanquan99/vanquan99/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- Animated footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" alt="Footer" />
+</p>
