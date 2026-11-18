@@ -41,6 +41,13 @@
 ## 📊 GitHub stats
 
 <p align="center">
+  <sub><i>📌 These stats only count my public repositories. Most of my work is in private or company projects, so a lower score here doesn't reflect my actual experience.</i></sub>
+</p>
+
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanquan99&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanquan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
+
+## 🐍 Contribution snake
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanquan99/vanquan99/output/github-snake-dark.svg" /> <img alt="Snake animation" src="https://raw.githubusercontent.com/vanquan99/vanquan99/output/github-snake.svg" /> </picture> </p>
